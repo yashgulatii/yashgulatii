@@ -22,7 +22,7 @@
 <a href="https://hashnode.com/@yashgulatii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashgulatii" height="30" width="40" /></a>
 <a href="https://medium.com/@yashgulatii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashgulatii" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashgulati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashgulati" height="30" width="40" /></a>
-<a href="/https://blog.yashgulatii.in/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://yashgulatii.hashnode.dev/rss.xml" height="30" width="40" /></a>
+<a href="/https://yashgulatii.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://yashgulatii.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
